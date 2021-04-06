@@ -1,0 +1,104 @@
+ .form-control-1 {
+    outline: none;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #55595c;
+    background-color: #fff;
+ 
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+    box-shadow: 1px 5px 20px rgb(0 0 0 / 15%), 0 3px 8px rgb(0 0 0 / 10%);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.react-date-picker__wrapper{
+    outline: none;
+    padding: 0.30rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #55595c;
+    background-color: #fff;
+ 
+    -webkit-background-clip: padding-box !important;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15) !important;
+    border-radius: .25rem;
+    box-shadow: 1px 5px 20px rgb(0 0 0 / 15%), 0 3px 8px rgb(0 0 0 / 10%);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.react-calendar {
+    width: 231px  !important;
+    max-width: 100% !important;
+    background: white !important;
+    border: 1px solid rgba(0,0,0,.15) !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    line-height: 1.05em !important;
+}
+
+.fa-pencil{
+    color: blueviolet;
+}
+.fa-times{
+    color:chocolate;
+}
+.fa-check{
+    color: rgb(107, 98, 182);
+}
+
+tr {
+    /* border: 1px solid rgba(0,0,0,.15); */
+    border-radius: .25rem;
+    box-shadow: 1px 20px 20px 0px rgb(0 0 0 / 0%), 2px 7px 4px 2px rgb(0 0 0 / 9%);
+}
+
+.search-inner-btn{
+    box-shadow: 1px 5px 20px rgb(0 0 0 / 15%), 0 3px 8px rgb(0 0 0 / 10%);
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    margin-bottom: 3px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    
+    .nav1{
+margin-top: 10px;
+
+margin-right: -44px;
+    }
+ 
+}
+
+@media screen and (min-width: 768px) and (max-width: 883px){
+    
+    .nav2{
+        margin-top: 13px;
+        
+           float: right;
+    }
+ 
+}
+
+@media screen and (min-width: 768px) and (max-width: 767px){
+    
+     .nav2{
+      
+        
+        margin-left: 10px !important;
+    }
+ 
+}
+@media screen and (min-width: 768px) and (max-width: 767px){
+    
+    .v2{
+     
+       
+       margin-left: 10px !important;
+   }
+
+}

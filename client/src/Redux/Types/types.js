@@ -1,0 +1,39 @@
+  
+export const GET_POSTS = 'GET_POSTS';
+export const GET_POSTS_SUCCESS = 'GET_POSTS_SUCCESS';
+export const GET_POSTS_FAILED = 'GET_POSTS_FAILED';
+
+export const ADD_POST = 'ADD_POST';
+export const ADD_POST_SUCCESS = 'ADD_POST_SUCCESS';
+export const ADD_POST_FAILED = 'ADD_POST_FAILED'
+
+
+export const UPDATE_LIST = ' UPDATE_LIST';
+export const UPDATE_LIST_SUCCESS = 'UPDATE_LIST_SUCCESS';
+export const UPDATE_LIST_FAILED = 'UPDATE_LIST_FAILED';
+
+export const DELETE_LIST = ' DELETE_LIST';
+export const DELETE_LIST_SUCCESS = 'DELETE_LIST_SUCCESS';
+export const DELETE_LIST_FAILED = 'DELETE_LIST_FAILED'
+
+
+export const ADD_TODO = 'ADD_TODO';
+export const ADD_TODO_SUCCESS = 'ADD_TODO_SUCCESS';
+export const ADD_TODO_FAILED = 'ADD_TODO_FAILED';
+
+
+
+export const GET_TODO = 'GET_TODO';
+export const GET_TOPO_SUCCESS = 'GET_TOPO_SUCCESS';
+export const GET_TODO_FAILED = 'GET_TODO_FAILED';
+
+
+export const UPDATE_TODO = 'UPDATE_TODO';
+export const UPDATE_TODO_SUCCESS = 'UPDATE_TODO_SUCCESS';
+export const UPDATE_TODO_FAILED = 'UPDATE_TODO_FAILED';
+
+
+
+export const DELETE_TODO = ' DELETE_TODO';
+export const DELETE_TODO_SUCCESS = 'DELETE_TODO_SUCCESS';
+export const DELETE_TODO_FAILED = 'DELETE_TODO_FAILED'
